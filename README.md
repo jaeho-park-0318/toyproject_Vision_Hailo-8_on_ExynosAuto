@@ -410,7 +410,7 @@ Progress: [==================================================] 100% (616/616)
 - 약 30fps가 나오고 Ubuntu에 입력 video에 대한 결과가 나온다 
 - 현재 test board가 power를 측정할수가 없지만, module에 열이 전혀 손으로 느껴지지 않는것으로 보아 매우 저전력인듯 하다.
 
-
+![Animation](HAILO-8_on-KITT1-Dsicvoery-V9.gif)
 <img width="1897" height="1088" alt="image" src="https://github.com/user-attachments/assets/980140ad-aee4-4508-b64b-c5cfa7736250" />
 
 
